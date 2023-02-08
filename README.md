@@ -5,3 +5,5 @@ Best Practices
 2. Following naming conventions
 
 ## Selenium 
+1. Use id over xpath
+2. Create POM files 
