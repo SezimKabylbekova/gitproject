@@ -7,3 +7,4 @@ Best Practices
 ## Selenium 
 1. Use id over xpath
 2. Create POM files 
+3. Test across different browsers 
