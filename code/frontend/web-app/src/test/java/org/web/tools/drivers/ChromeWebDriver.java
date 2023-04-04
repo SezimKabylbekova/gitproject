@@ -1,2 +1,4 @@
-package org.web.tools.drivers;public class ChromeWebDriver {
+package org.web.tools.drivers;
+
+public class ChromeWebDriver {
 }

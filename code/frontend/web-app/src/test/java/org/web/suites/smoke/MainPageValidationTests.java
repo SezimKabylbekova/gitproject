@@ -1,2 +1,4 @@
-package org.web.suites.smoke;public class MainPageValidationTests {
+package org.web.suites.smoke;
+
+public class MainPageValidationTests {
 }
