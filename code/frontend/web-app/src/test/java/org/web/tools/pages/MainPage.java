@@ -5,7 +5,8 @@ import org.openqa.selenium.support.FindBy;
 
 public class MainPage extends BasePage {
 
-    //Hello my wonderful world!
+    //Today is a new day
+
 
 
     @FindBy(xpath = "//img[@alt='Driver App logo']") //TODO
